@@ -77,8 +77,14 @@ label{
     padding: 12px;
     border: 1px solid #ccc;
     border-radius: 4px;
+<<<<<<< HEAD
     resize: vertical;}
     /* UC3 */
+=======
+    resize: vertical;
+}
+/* UC3 */
+>>>>>>> UC3_Form_Profile_pic
 .profile-radio-content{
     display: flex;
     flex-direction: row;
